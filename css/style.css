@@ -919,6 +919,8 @@ section.portada .flecha-continuar {
   width: 50px;
   position: absolute;
   bottom: -80px;
+  -webkit-position: absolute;
+  -webkit-bottom: -80px;
 }
 
 
